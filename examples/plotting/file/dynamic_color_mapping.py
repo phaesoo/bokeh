@@ -1,7 +1,7 @@
 import numpy as np
 
 from bokeh.layouts import gridplot
-from bokeh.models import BasicTicker, BasicTickFormatter, ColorBar, LinearColorMapper
+from bokeh.models import ColorBar, LinearColorMapper
 from bokeh.palettes import Plasma256
 from bokeh.plotting import figure, show
 
